@@ -31,6 +31,6 @@
     "@zaproxy/actions-common-scans": "^1.4.0"
   },
   "devDependencies": {
-    "@vercel/ncc": "^0.38.1"
+    "@vercel/ncc": "^0.44.0"
   }
 }
